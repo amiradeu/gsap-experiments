@@ -2,6 +2,8 @@
 
 Chiang Mai travel photos
 
+<img src="./demo/main.png"/>
+
 ## Tools
 
 -   Gsap ScrollTrigger
@@ -10,7 +12,6 @@ Chiang Mai travel photos
 ## Todos
 
 -   [ ] Preload images
--   [ ] Experiment with more animations
 
 ## References
 
